@@ -1,0 +1,27 @@
+body {
+  position: relative;
+  padding: 20px;
+}
+
+.fs-3 {
+  font-family: "Raleway", sans-serif;
+  width: 300;
+}
+
+.table {
+  padding: 0 20px;
+}
+
+.one {
+  font-size: 200;
+}
+
+.positionButton {
+  display: block;
+  margin: 0 auto;
+  background: blue;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border-color: blue;
+}
